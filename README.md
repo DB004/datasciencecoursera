@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera - Data Science Assignments
+Repositor for Coursera Data Science Assignments
